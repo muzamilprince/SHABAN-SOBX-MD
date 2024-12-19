@@ -1,7 +1,7 @@
 ---------
 
-### <br>  📡 SHABAN-SOBX-MD 📡
-💛 **`THE WORLD BEST WHATSAPP BOT CREATED BY MRSHABAN`** 💛
+### <br>  📡 MUZAMIL-PRINCE-MD 📡
+💛 **`THE WORLD BEST WHATSAPP BOT CREATED BY MRMUZAMIL`** 💛
 
 ----------
 
@@ -10,12 +10,12 @@
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`SHABAN+-+SOBX+-+MD+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`MUZAMIL+-+PRINCE+-+MD+WHATSAPP+BOT`" alt="">
 
 ------------
 
 <img align="center" height="auto"
-src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=🥂THE%20WORLD%20BEST%20WHATSAPP%20BOT%★%20CREATED%20BY%20MR%20SHABAN%20432%20KING%20OF%20KINGS%20OWNER%20MR%20SHABAN%20AND%20USMAN%20SILENT🦋&image=https://telegra.ph/file/e47b23583ab7ec42d58df.jpg?v=4&backgroundColor=%23ecf0f1&github=MRSHABAN&pattern=leaf&colorPattern=%23eaeaea"/>
+src="https://cardivo.vercel.app/api?name=MUZAMIL%20PRINCE%MD%&description=🥂THE%20WORLD%20BEST%WHATSAPP%BOT%★%20CREATED%20BY%20MUZAMIL%20PRINCE%20432%20KING%20OF%20KINGS%20OWNER%20MUZAMIL%20PRINCE%20AND%20USMAN%20SILENT🦋&image=https://telegra.ph/file/e47b23583ab7ec42d58df.jpg?v=4&backgroundColor=%23ecf0f1&github=MUZAMIL&pattern=leaf&colorPattern=%23eaeaea"/>
 
 <br>
 
@@ -26,11 +26,11 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 --------
 
 <p align="center">
-<a href="https://github.com/MRSHABAN/"><img title="Followers" src="https://img.shields.io/github/followers/MRSHABAN?color=blue&style=flat-square"></a>
-<a href="https://github.com/MRSHABAN/SHABAN-SOBX-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MRSHABAN/SHABAN-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/MRSHABAN/SHABAN-SOBX-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MRSHABAN/SHABAN-SOBX-MD?color=blue&style=flat-square"></a>
-<a href="https://github.com/MRSHABAN/SHABAN-SOBX-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/MRSHABAN/SHABAN-SOBX-MD?style=flat-square&color=blue"></a>
-<a href="https://github.com/MRSHABAN/SHABAN-SOBX-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/MUZAMIL PRINCE/"><img title="Followers" src="https://img.shields.io/github/followers/MUZAMIL PRINCE?color=blue&style=flat-square"></a>
+<a href="https://github.com/MUZAMIL/PRINCE-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/MUZAMIL/PRINCE-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/MUZAMIL/PRINCE-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/MUZAMIL/PRINCE-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/MUZAMIL/PRINCE-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/MUZAMIL/PRINCE-MD?style=flat-square&color=blue"></a>
+<a href="https://github.com/MUZAMIL/MUZAMIL-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
@@ -38,7 +38,7 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 -----------
 ----------
 
-<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>SHABAN-SOBX-MD-V2</div>
+<div align="center"><br> <img src="https://profile-counter.glitch.me/SILENT-SOBX-MD/count.svg" /><br>MUZAMIL-PRINCE-MD-V2</div>
 
 ------------
 
@@ -51,16 +51,16 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 
 ----------------
 
-![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMRSHABAN%2FSHABAN-SOBX-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
+![repo views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMUZAMIL-PRINCE%2FMUZAMIL-PRINCE-MD&count_bg=%2379C83D&title_bg=%23555555&icon=gitpod.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false)
 
 
-![forks](https://img.shields.io/github/forks/MRSHABAN/SHABAN-SOBX-MD?label=Forks&style=social)
+![forks](https://img.shields.io/github/forks/MUZAMIL/PRINCE-MD?label=Forks&style=social)
 
 
-![stars](https://img.shields.io/github/stars/MRSHABAN/SHABAN-SOBX-MD?style=social)
+![stars](https://img.shields.io/github/stars/MUZAMIL/PRINCE-MD?style=social)
 
 
-[![FORK SHABAN-SOBX-MD](https://img.shields.io/badge/FORK%20-SHABAN%20SOBX%20MD-white)](https://github.com/MRSHABAN/SHABAN-SOBX-MD/fork)
+[![FORK MUZAMIL-PRINCE-MD](https://img.shields.io/badge/FORK%20-MUZAMIL%20PRINCE%20MD-white)](https://github.com/MUZAMIL/PRINCE-MD/fork)
 
 `❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁❁`
 
@@ -81,29 +81,29 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 
 ### <br> 🙏 FOR SUPPORT 🙏
 
-**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME MR✠SHABAN࿐➺`**
+**`➩ HII DEARS FRIENDS IF YOU WANT ANY HELP SO YOU CAN CONTACT↘︎ WITH ME WIA WHATSAPP ITS ME MUZAMIL✠PRINCE࿐➺`**
 
 -------
 
 <p align="center">
-  <a href="https://wa.me/+923059395959?text=*ʜɪɪ+ᴍʀsʜᴀʙᴀɴ--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
+  <a href="https://wa.me/+923198746597?text=*ʜɪɪ+MUZAMIL--+ɪ+ɴᴇᴇᴅ+ʜᴇʟᴘ!.+ɪ+ᴍᴇssᴀɢᴇᴅ+ʏᴏᴜ+ғʀᴏᴍ+sʜᴀʙᴀɴ-sᴏʙx-ᴍᴅ+ʀᴇᴘᴏ!!*" target="_blank">
     <img alt="whatsapp" src="https://img.shields.io/badge/ Whatsapp -25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 -----------    
 
-`♡︎ IF YOU WANT MORE ABOUT SHABAN-SOBX-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ♡︎`
+`♡︎ IF YOU WANT MORE ABOUT MUZAMIL-PRINCE-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO JOIN OUR WHATSAPP GROUP FOR MORE INFORMATION CLICK THIS RED BUTTON 🔳 AND JOIN THE GROUP ♡︎`
 
 ---------
 
-<a href="https://whatsapp.com/channel/0029VazjYjoDDmFZTZ9Ech3O"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="😍 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 😍" width="300"></a>
+<a href="https://whatsapp.com/channel/0029VajJxbM4inotel0srJ2b"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ᴡʜᴀᴛsᴀᴘᴘ%20ᴄʜᴀɴɴᴇʟ-red" alt="😍 ᴊᴏɪɴ ᴍʏ ᴡʜᴀᴛsᴀᴘᴘ ɢʀᴏᴜᴘ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 😍" width="300"></a>
 
 -----------
 
-`✰ IF YOU WANT MORE ABOUT SHABAN-SOBX-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✰`
+`✰ IF YOU WANT MORE ABOUT MUZAMIL-PRINCE-MD WHATSAPP BOT :-NEW UPDATED NEW CMDS SO SUBSCRIBE OUR YOUTUBE CHANNEL FOR MORE INFORMATION CLICK THIS BLUE BUTTON 🔳 AND JOIN THE YOUTUBE CHANNEL ✰`
 
 ----------
 
-<a href="https://youtube.com/@mrshaban282?si=Mmp8uT0UZsRqvKnq"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🥰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🥰" width="300"></a>
+<a href="https://youtube.com/@MRMUZAMIL282?si=Mmp8uT0UZsRqvKnq"><img src="https://img.shields.io/badge/%F0%9F%8E%89%20ᴊᴏɪɴ%20ᴏᴜʀ%20ʏᴏᴜᴛᴜʙᴇ%20ᴄʜᴀɴɴᴇʟ-blue" alt="🥰 ᴊᴏɪɴ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ғᴏʀ ᴜᴘᴅᴀᴛᴇ 🥰" width="300"></a>
 
 --------------
 
@@ -122,7 +122,7 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 ----------
 
 <p align="center">
-<a href="https://shabansobxmdpair-945073ac238a.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=heroku"></a>
+<a href="https://muzamilprincemdpair-945073ac238a.herokuapp.com/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID-1:-black?style=for-the-badge&logo=heroku"></a>
 <p/>
 
 ----------
@@ -135,27 +135,27 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
  
 ### <br>   ✫ DEPLOY_HEROKU ✫
 
-`✠ IF YOU WANT TO DEPLOY SHABAN-SOBX-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
+`✠ IF YOU WANT TO DEPLOY MUZAMIL-PRINCE-MD BOT ON HEROKU SO FIRST GET YOUR SESSION_ID THEN CLICK THIS BLUE BUTTON [DEPLOY TO HEROKU] THEN YOU CAN ENJOY THIS BOT ✠`
 
 ------------
  
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MRSHABAN/SHABAN-SOBX-MD)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new-app?template=https://github.com/MUZAMIL/PRINCE-MD)
 
 ----------
 
 ### <br>    ✫ DEPLOY_REPLIT ✫
 
-`✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY SHABAN-SOBX-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
+`✠ IF U HAVE YOUR REPLIT ACCOUNT SO YOU CAN EASY DEPLOY MUZAMIL-PRINCE-MD ON REPLIT CLICK BLACK BUTTON [DEPLOY TO REPLIT] AND FIND CONFIG.JSON FILE THEN PASTE YOUR SESSION AND MONGODB KEY THEN RUN CODE AND ENJOY BOT ✠`
 
 -------------
 
-<p align="left"><a href="https://repl.it/github/MRSHABAN/SHABAN-SOBX-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
+<p align="left"><a href="https://repl.it/github/MUZAMIL/PRINCE-MD"> <img src='https://img.shields.io/badge/-REPLIT-orange?style=for-the-badge&logo=replit&logoColor=white'/></a>
 
 --------------
 
 ### <br>   ✫ DEPLOY_KOYEB ✫
 
-`۞ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY SHABAN-SOBX-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ۞`
+`۞ IF YOU HAVE YOUR KOYEB ACCOUNT SO YOU CAN DEPLOY MUZAMIL-PRINCE-MD ON KOYEB WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ۞`
 
 ---------
 
@@ -165,7 +165,7 @@ src="https://cardivo.vercel.app/api?name=SHABAN%20SOBX%20MD%20V2&description=�
 
 ### <br>  ✫ DEPLOY_RAILWAY ✫
 
-`✪ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY SHABAN-SOBX-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✪`
+`✪ IF YOU HAVE YOUR RAILWAY ACCOUNT SO YOU CAN DEPLOY MUZAMIL-PRINCE-MD ON RAILWAY WITH EASY SETUP NOTE:-MAYBE SOME PROBLEM TO DEPLOY ON KOYEB I ILL FIX SOON ✪`
 
 --------
 
@@ -233,7 +233,7 @@ jobs:
 
 -----------
 
-`😍 HOW TO DEPLOY SHABAN-SOBX-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 😍`
+`😍 HOW TO DEPLOY MUZAMIL-PRINCE-MD ON WORKFLOWS FREE GITHUB WATCH VIDEO 😍`
 
 -------------
 
@@ -257,7 +257,7 @@ jobs:
 
 -----------
 
-***😇THANKS FOR USING SHABAN-SOBX-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE SHABAN-SOBX-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY MRSHABAN282 KING OF WHATSAPP🤠***
+***😇THANKS FOR USING MUZAMIL-PRINCE-MD WHATSAPP BOT IF U HAVE ANY PROBLEM YOU CAN CONTECT ME NOTE MUZAMIL-PRINCE-MD A ANTIBAN WHATSAPP BOT BUT IF YOUR WHATSAPP ACCOUNT BANNED THEN I'M NO RESPONSE ABLE THANKYOU BY MRMUZAMIL688 KING OF WHATSAPP🤠***
 
 ------------
 
